@@ -1,5 +1,5 @@
 # Wheel's Way Project
-
+Demo Link: [Click Here](https://car-rent-v6si.onrender.com/)
 ## Project Overview
 
 The Wheel's Way project is a comprehensive web platform designed to enable users to list their cars for sale or rent. The platform incorporates a range of modern web development technologies and provides robust features for user authentication, state management, and data handling.
@@ -72,15 +72,3 @@ The Wheel's Way project is a comprehensive web platform designed to enable users
  [Deployment using Render]
 
 
-flowchart TD
-    A[Install and Setup] --> B[Create Routes]
-    B --> C[Implement Authentication]
-    C --> D[Google OAuth Integration]
-    C --> E[Manage State with Redux Toolkit]
-    E --> F[CRUD Operations with MongoDB]
-    F --> G[User Features: Login, Profile Update]
-    G --> H[Create/Edit Car Listings]
-    H --> I[Image Upload Functionality]
-    I --> J[Display Listings with Details]
-    J --> K[Advanced Search Functionality]
-    K --> L[Deployment using Render]
